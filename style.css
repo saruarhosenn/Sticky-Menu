@@ -105,6 +105,7 @@ Header Sticky
 	-webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	z-index: 999999;
+	background-color: #00A754;
 }
 
 @-webkit-keyframes fadeInDown {
